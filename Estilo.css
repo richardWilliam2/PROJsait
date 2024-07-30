@@ -1,0 +1,38 @@
+/* tudo que for emportado ser colocado no inicio da programação */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kalnia+Glaze:wght@100..700&family=Playwrite+BE+WAL:wght@100..400&display=swap");
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.figura{
+    width: 10px;
+}
+
+.GOKU{
+    width: 100px;
+}
+
+/* Classe para configuração */
+.fonte {
+    color: blue;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 50px;
+}
+
+.fi {
+    color: blueviolet;
+    font-size: 40px;
+    font-family: "Kalnia Glaze", serif;
+}
+
+.fon{
+    color: gold;
+    font-size: 30px;
+    font-family: "Noto Serif Khitan Small Script", serif;
+
+
+}
+
+
